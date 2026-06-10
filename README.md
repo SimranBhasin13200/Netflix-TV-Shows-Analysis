@@ -103,12 +103,11 @@ Netflix-TV-Shows-Analysis/
 
 ### Netflix vs Non-Netflix Content Distribution
 
-![Content Distribution](images/content_distribution.png)
+![Content Distribution](content_distribution.png)
 
 ### 18+ Content Distribution Analysis
 
-![18+ Analysis](images/adult_content_analysis.png)
-
+![18+ Content Distribution Analysis](adult_content_analysis.png)
 ---
 
 ## 🚀 Getting Started
