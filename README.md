@@ -6,9 +6,7 @@ A comprehensive Exploratory Data Analysis (EDA) project on Netflix TV Shows data
 
 ## 📌 Project Overview
 
-Netflix has become one of the world's leading streaming platforms, offering a vast collection of TV shows and movies. This project analyzes Netflix TV Shows data to understand content distribution, audience ratings, and content trends using data analysis and visualization techniques.
-
-The analysis was performed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn in Jupyter Notebook.
+Netflix is one of the world's leading streaming platforms, offering a vast collection of TV shows and movies. This project explores Netflix TV Shows data through data cleaning, exploratory data analysis (EDA), and visualization techniques to uncover content distribution patterns, audience ratings, and key trends.
 
 ---
 
@@ -89,11 +87,24 @@ Netflix-TV-Shows-Analysis/
 
 ## 🔍 Key Insights
 
-- Netflix contains a higher percentage of mature-rated (18+) content.
+- Netflix contains a higher percentage of mature-rated (18+) content (63.16%) compared to Non-Netflix content (48.39%).
 - Content distribution patterns differ between Netflix and Non-Netflix platforms.
 - Audience ratings reveal distinct content targeting strategies.
 - Mature-rated content represents a significant portion of the analyzed dataset.
 - Data visualization highlights trends and patterns in content distribution.
+
+---
+
+## 📷 Sample Visualization
+
+### Netflix vs Non-Netflix Content Distribution
+
+![Content Distribution](images/content_distribution.png)
+
+### 18+ Content Distribution Analysis
+
+![18+ Analysis](images/adult_content_analysis.png)
+
 ---
 
 ## 🚀 Getting Started
@@ -157,11 +168,13 @@ The dataset contains Netflix TV show information and was used for educational an
 ## 💡 Skills Demonstrated
 
 - Data Cleaning
+- Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis
 - Python Programming
 - Pandas Data Manipulation
+- Matplotlib
 - Business Insight Generation
 
 ---
