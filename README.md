@@ -207,4 +207,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ## 📜 License
 
+This project is created for educational and portfolio purposes.
+
 This project is intended for educational and portfolio purposes.
