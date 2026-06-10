@@ -76,31 +76,24 @@ Netflix-TV-Shows-Analysis/
 
 ## 📈 Key Analysis Performed
 
-### Content Distribution Analysis
-- Analyzed the distribution of content across Netflix and Non-Netflix platforms.
-
-### Audience Rating Analysis
-- Examined content ratings to understand audience targeting.
-
-### 18+ Content Analysis
-- Compared the percentage of mature-rated (18+) content between Netflix and Non-Netflix content.
-
-### Comparative Analysis
-- Performed side-by-side comparison of content categories and rating distributions.
-
-### Data Visualization
-- Created bar charts and comparative plots to identify trends and patterns.
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Content Distribution Analysis
+- Netflix vs Non-Netflix Content Comparison
+- Audience Rating Analysis
+- 18+ Content Distribution Analysis
+- Data Visualization using Matplotlib
+- Statistical Summary and Trend Identification
 
 ---
 
 ## 🔍 Key Insights
 
-- Netflix contains a higher percentage of 18+ rated content compared to many non-Netflix content sources.
-- Content distribution patterns vary significantly between Netflix and Non-Netflix platforms.
-- Mature-rated content represents a substantial portion of the available catalog.
-- Visual analysis highlights differences in audience targeting strategies.
-- Data-driven insights can help understand content positioning and viewer demographics.
-
+- Netflix contains a higher percentage of mature-rated (18+) content.
+- Content distribution patterns differ between Netflix and Non-Netflix platforms.
+- Audience ratings reveal distinct content targeting strategies.
+- Mature-rated content represents a significant portion of the analyzed dataset.
+- Data visualization highlights trends and patterns in content distribution.
 ---
 
 ## 🚀 Getting Started
