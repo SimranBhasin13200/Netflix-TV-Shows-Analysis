@@ -37,6 +37,10 @@ Netflix is one of the world's leading streaming platforms, offering a vast colle
 ```text
 Netflix-TV-Shows-Analysis/
 │
+├── images/
+│   ├── content_distribution.png
+│   └── adult_content_analysis.png
+│
 ├── Netflix TV Shows Analysis.ipynb
 ├── Netflix TV Shows Analysis.html
 ├── netflix.csv
