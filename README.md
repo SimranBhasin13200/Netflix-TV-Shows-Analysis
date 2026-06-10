@@ -40,8 +40,10 @@ Netflix-TV-Shows-Analysis/
 ├── Netflix TV Shows Analysis.ipynb
 ├── Netflix TV Shows Analysis.html
 ├── netflix.csv
-├── content_distribution.png
-├── adult_content_analysis.png
+├── images/
+adult_content_analysis.png
+content_distribution.png
+├── 
 └── README.md
 ---
 
