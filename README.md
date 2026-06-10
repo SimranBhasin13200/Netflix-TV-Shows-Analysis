@@ -76,38 +76,30 @@ Netflix-TV-Shows-Analysis/
 
 ## 📈 Key Analysis Performed
 
-### Netflix vs Non-Netflix Content Distribution
+### Content Distribution Analysis
+- Analyzed the distribution of content across Netflix and Non-Netflix platforms.
 
-```python
-platform_percent.index = ['Non-Netflix', 'Netflix']
-platform_percent.plot(kind='bar')
-plt.title('Netflix vs Non-Netflix Content Distribution (%)')
-plt.xlabel('Platform')
-plt.ylabel('Percentage (%)')
-plt.show()
-```
+### Audience Rating Analysis
+- Examined content ratings to understand audience targeting.
 
-### 18+ Content Distribution Analysis
+### 18+ Content Analysis
+- Compared the percentage of mature-rated (18+) content between Netflix and Non-Netflix content.
 
-```python
-data = [63.16, 48.39]
-labels = ['Netflix', 'Non-Netflix']
+### Comparative Analysis
+- Performed side-by-side comparison of content categories and rating distributions.
 
-plt.figure(figsize=(5,4))
-plt.bar(labels, data)
-plt.title('18+ Content Distribution (%)')
-plt.ylabel('Percentage (%)')
-plt.show()
-```
+### Data Visualization
+- Created bar charts and comparative plots to identify trends and patterns.
 
 ---
 
 ## 🔍 Key Insights
 
-- Netflix contains a high proportion of mature-rated content.
-- Audience rating distributions vary across content categories.
-- Content distribution patterns reveal differences between Netflix and Non-Netflix content.
-- Data visualization helps identify trends and audience preferences.
+- Netflix contains a higher percentage of 18+ rated content compared to many non-Netflix content sources.
+- Content distribution patterns vary significantly between Netflix and Non-Netflix platforms.
+- Mature-rated content represents a substantial portion of the available catalog.
+- Visual analysis highlights differences in audience targeting strategies.
+- Data-driven insights can help understand content positioning and viewer demographics.
 
 ---
 
@@ -209,4 +201,3 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 This project is created for educational and portfolio purposes.
 
-This project is intended for educational and portfolio purposes.
